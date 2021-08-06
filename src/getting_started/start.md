@@ -33,9 +33,9 @@ tags:
     }
 </style>
 
-# Make Your First Game
+# 制作你的第一个游戏
 
-Whether you're a new creator or an experienced developer, Core is the easiest way to build, host, and run multiplayer games and worlds. We provide the servers, the assets, and all the code needed to get your first game built and published in minutes. To get started, choose a tutorial below.
+无论您是新创建者还是经验丰富的开发人员，Core都是构建、托管和运行多人游戏和世界的最简单方法。我们提供服务器、资产和所有需要的代码，让你的第一个游戏在几分钟内完成并发布。要开始，请选择下面的教程
 
 ## Choose A Genre
 
@@ -44,11 +44,11 @@ Whether you're a new creator or an experienced developer, Core is the easiest wa
 | *Build the perfect arena, weapons, and rules for a fast-paced action shooter for up to 8 players.* | *Create an RPG world that saves gold and levels between sessions, complete with enemy NPC's and an item shop.* | *Let players fight zombies, gathering materials, build items and fortify shelters in this framework made by [Team META](https://core-team-meta.github.io/).* |
 | [![Deathmatch](../img/Start/Deathmatch_Docs.png)](my_first_multiplayer_game.md){: .table-art } | [![Dungeon](../img/Start/DungeonCrawler_Docs.png)](../tutorials/first_game_rpg.md){: .table-art } | [![Survival](../img/Start/Survival_Docs.png)](../tutorials/survival_tutorial.md){: .table-art } |
 | **Time to Complete:** 20 - 30 mins   | **Time to Complete:** 45 mins - 1 hour | **Time to Complete:** 1 hour+ |
-| **Learn:** <ul><li>Exploring Free Core Content</li><li>Designing Multiplayer Maps</li><li>Transforming Objects</li><li>Using Core's Materials</li><li>Publishing Your Game</li></ul> | **Learn:** <ul><li>Leveling and Progression</li><li>Using Community-Created Assets</li><li>Building Terrain</li><li>Designing Loot Tables</li><li>Saving Player Data between Sessions</li></ul> | **Learn:** <ul><li>Creating an Item Database</li><li>Building Terrain</li><li>Creating new NPC enemies</li><li>Organizing Item Spawns</li><li>Using Cameras to Create a Mini-Map</li></ul> |
+| **Learn:** <ul><li>探索免费的核心内容</li><li>设计多人地图</li><li>变换对象</li><li>使用 Core的材质</li><li>发布你的游戏</li></ul> | **Learn:** <ul><li>Leveling and Progression</li><li>Using Community-Created Assets</li><li>Building Terrain</li><li>Designing Loot Tables</li><li>Saving Player Data between Sessions</li></ul> | **Learn:** <ul><li>Creating an Item Database</li><li>Building Terrain</li><li>Creating new NPC enemies</li><li>Organizing Item Spawns</li><li>Using Cameras to Create a Mini-Map</li></ul> |
 
 ## Coming From Other Platforms
 
-If you are a developer on another platform, check out our guides to quickly learn what is new and different about Core.
+如果您是另一个平台的开发人员，请查看我们的指南，快速了解Core的新特性和不同之处。
 
 - [Unity](../other_platforms/unity.md)
 - [Roblox](../other_platforms/roblox.md)
@@ -57,7 +57,7 @@ If you are a developer on another platform, check out our guides to quickly lear
 
 ---
 
-## Learn More
+## 了解更多信息
 
 [Learn Lua](../tutorials/lua_basics_helloworld.md) | [Core Lua API](../api/index.md) | [Intro for Artists](../references/art.md) | [Publishing](publishing.md)
 
